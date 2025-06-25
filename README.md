@@ -1,5 +1,7 @@
 **Credit Card Fraud Detection**
+
 This project explores the performance of different machine learning methods to detect fraudulent credit card transactions on a highly imbalanced dataset of credit card transactions.
+
 	•	Data Cleaning and feature engineering 
 	•	Data preprocessing: Balancing the dataset using SMOTE, NearMiss Algorithm and SMOTE-ENN
 	•	Model training and evaluation.
