@@ -7,13 +7,17 @@ This project explores the performance of different machine learning methods to d
 	•	Model training and evaluation.
 
 **Project Overview**
-	•	Goal:  Develop a machine learning model to identify fraudulent credit card transactions while minimising false positive and negatives.
+
+	•	Goal: Develop a machine learning model to identify fraudulent credit card transactions while minimising false positive and negatives.
 	•	Methods Used: 
+ 
 	◦	Descriptive statistical analysis
 	◦	Data preprocessing
 	◦	Dimensionality reduction using LDA
 	◦	Model training and evaluation using Logistic regression, Random Forest Classifier and XGBoost.
+ 
 	•	Outputs: 
+ 
 	◦	Comparison and evaluation of predictive models performance
 	◦	Visual insights using Matplotlib and Seaborn
 	◦	A cleaned and balanced dataset for deployment and further analysis.
